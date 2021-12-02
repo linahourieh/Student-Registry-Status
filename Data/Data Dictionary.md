@@ -5,7 +5,7 @@
 |                          | Type    |   length |   null count |   size/memory usage | Definition   |
 |:-------------------------|:--------|---------:|-------------:|--------------------:|:-------------|
 | Student ID               | float64 |    33425 |            0 |              267400 |       student ID       |
-| Student Level            | object  |    33425 |            0 |              267400 |        level      |
+| Student Level            | object  |    33425 |            0 |              267400 | Four Levels for calssifying students :Level 1 is 50%–59%, Level 2 is 60%–69%, Level 3 is 70%–79%, and Level 4 is 80%–100%.     |
 | Country                  | object  |    33425 |            0 |              267400 |              |
 | Nationality              | object  |    33425 |            0 |              267400 |              |
 | Faculty Name             | object  |    33425 |            0 |              267400 |              |
