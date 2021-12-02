@@ -6,8 +6,8 @@ _________________________
 
 |                          | Type    |   length |   null count |   size/memory usage | Definition   |
 |:-------------------------|:--------|---------:|-------------:|--------------------:|:-------------|
-| Student ID               | float64 |    33425 |            0 |              267400 |              |
-| Student Level            | object  |    33425 |            0 |              267400 |              |
+| Student ID               | float64 |    33425 |            0 |              267400 |       student ID       |
+| Student Level            | object  |    33425 |            0 |              267400 |        level      |
 | Country                  | object  |    33425 |            0 |              267400 |              |
 | Nationality              | object  |    33425 |            0 |              267400 |              |
 | Faculty Name             | object  |    33425 |            0 |              267400 |              |
