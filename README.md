@@ -1,5 +1,6 @@
 # Student-Registry-Status
 A machine learning project predicting student registry status for the upcoming university semester.
+Project authors: **Lina Hourieh**, **Sara Ghaboura**, **Zeinab Zeitoun** and **Imad Moustafa**
 
 ## why is it important to predict student status?
 - Optimizing resources such as books, labs, materials, dormatory, lecturer contract and etc. 
