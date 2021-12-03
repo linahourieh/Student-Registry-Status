@@ -1,5 +1,9 @@
 # Student-Registry-Status
+
+![image](https://user-images.githubusercontent.com/81252980/144570320-77b00f27-1a13-42d0-9cdc-73928be35fab.png)
+
 A machine learning project predicting student registry status for the upcoming university semester.
+
 Project authors: **Lina Hourieh**, **Sara Ghaboura**, **Zeinab Zeitoun** and **Imad Moustafa**
 
 ## why is it important to predict student status?
